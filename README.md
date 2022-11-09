@@ -1,3 +1,9 @@
+# BVR the buy vs rent project.
+
+It is the second project finished during Coding Dojo bootcamp. It is the project in the MERN stack lesson.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
